@@ -2,11 +2,9 @@
 
 
 # 域名关键字匹配
-# 机场
-DOMAIN-KEYWORD,candytally
-DOMAIN-KEYWORD,starbb
-DOMAIN-KEYWORD,feiniaoyun
+DOMAIN-KEYWORD,ticketmaster
 DOMAIN-KEYWORD,ddsrem
+DOMAIN-KEYWORD,feiniaoyun
 
 
 # 域名后缀匹配
