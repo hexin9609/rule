@@ -5,7 +5,7 @@ payload:
   # 域名关键字匹配
   - DOMAIN-KEYWORD,ddsrem
   - DOMAIN-KEYWORD,feiniaoyun
-  - DOMAIN-KEYWORD,ticketmaster
+  # - DOMAIN-KEYWORD,ticketmaster
 
   # 域名后缀匹配
   - DOMAIN-SUFFIX,qichiyu.com
